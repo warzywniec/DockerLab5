@@ -42,4 +42,5 @@ Zadanie z Laboratorium 5 w ramach przedmiotu, Programowanie Aplikacji w Chmurze 
 ``` curl http://localhost:8080 ```
 
 ### Zrzut ekranu
-![image](https://github.com/user-attachments/assets/dbd01450-41bf-43f9-80a6-7c64a00a33bf)
+
+![Screenshot 2025-05-06 151736](https://github.com/user-attachments/assets/1e781f31-8425-4266-992d-8cb489ee6f6b)
